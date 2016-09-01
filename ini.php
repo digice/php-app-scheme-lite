@@ -2,7 +2,6 @@
 
 /** App Initializer **/
 
-
 /** Load Configuration File **/
 require_once(__DIR__.DIRECTORY_SEPARATOR.'etc'.DIRECTORY_SEPARATOR.'config.php');
 
@@ -14,10 +13,6 @@ foreach ($ds as $dp) {
     require_once(__DIR__.DIRECTORY_SEPARATOR.$fn.DIRECTORY_SEPARATOR.'ini.php');
   }
 }
-
-
-
-
 
 /** Load Abstract Classes **/
 require_once(__DIR__.DIRECTORY_SEPARATOR.'lib'.DIRECTORY_SEPARATOR.'.abc.php');
