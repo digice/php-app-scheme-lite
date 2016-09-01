@@ -1,6 +1,6 @@
 # php-app-scheme-lite
 Application structure for a default PHP Application (SQLite Version)
-
+`
 <#appname#>/
 ├── bin/
 │   ├── main.php
@@ -20,3 +20,4 @@ Application structure for a default PHP Application (SQLite Version)
     ├── inc
     ├── tmp
     └── www
+`
