@@ -1,5 +1,5 @@
-# php-app-scheme-lite
-Application structure for a default PHP Application (SQLite Version)
+# PHP Application Scheme Lite #
+### Application structure for a default PHP Application (SQLite Version) ###
 ```
 <#appname#>/
 ├── bin/
